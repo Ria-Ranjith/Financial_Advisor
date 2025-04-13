@@ -1,0 +1,6 @@
+pandas
+gradio
+openpyxl
+pillow
+google-generativeai
+python-dotenv
